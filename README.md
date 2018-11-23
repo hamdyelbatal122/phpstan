@@ -717,6 +717,7 @@ Any contributions are welcome.
 You can either run the whole build including linting and coding standards using
 
 ```bash
+.
 vendor/bin/phing
 ```
 
